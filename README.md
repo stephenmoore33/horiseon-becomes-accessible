@@ -6,3 +6,5 @@ The objective of this project is to make this site more accessible for screen re
 **Origin: Michigan State University Coding Bootcamp**
 <br>
 ## Changelog
+- Added header tag
+- Added nav tag
