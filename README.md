@@ -9,3 +9,4 @@ The objective of this project is to make this site more accessible for screen re
 - Added header tag
 - Added nav tag
 - Added footer tag
+- Added body tag/replaced div
