@@ -8,3 +8,4 @@ The objective of this project is to make this site more accessible for screen re
 ## Changelog
 - Added header tag
 - Added nav tag
+- Added footer tag
