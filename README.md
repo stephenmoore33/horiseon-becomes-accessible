@@ -1,5 +1,5 @@
 # Horiseon Website Code Refracture
-The objective of this project is to make this site more accessible for screen readers.
+The objective of this project is to make this site more accessible for screen readers. I replaced < div > HTML tags with the proper tag. For example, the header < div > tag was replaced with < header >.
 
 **Creator: Stephen Moore**
 <br>
